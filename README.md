@@ -3,7 +3,7 @@ Hey, I'm Cong Nguyen 👋
 
 👀 I’m interested in Coding
 
-* ✉️  Contact me at [dev.nguyen.dalat@gmail.com](mailto:dev.nguyen.dalat@gmail.com)
+* ✉️  You can contact me at [dev.nguyen.dalat@gmail.com](mailto:dev.nguyen.dalat@gmail.com)
 
 ### Skills
 
@@ -15,11 +15,23 @@ Hey, I'm Cong Nguyen 👋
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/congnguyenl" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/congnguyendl" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
 
-<a href="https://github.com/congnguyenl" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=congnguyenl&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/congnguyendl"><img src="https://github-readme-stats.vercel.app/api?username=congnguyendl&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true" alt="congnguyendl's GitHub stats" /></a>
+
+<a href="https://github.com/congnguyendl" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=congnguyendl&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Support Me
+
+<ul style="list-style-type: none; margin: 0;">
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/congnguyendl"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+
+</ul>
 
 ### Support Me
 
